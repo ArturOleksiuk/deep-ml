@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 9 problems · 0 labs · 0 math
+**10** solved · 9 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-10-12 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-10-13 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-14 | [solution](problems/0009-matrix-times-matrix) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-10-16 | [solution](math/0001-derivatives-and-gradients) |
 
 ---
 
