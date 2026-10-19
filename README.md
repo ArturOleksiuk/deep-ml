@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 19 problems · 0 labs · 5 math
+**25** solved · 20 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-10-16 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-10-18 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-10-16 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-10-19 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-13 | [solution](problems/0083-dot-product-calculator) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-10-16 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-10-14 | [solution](problems/0042-implement-relu-activation-function) |
