@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T17:30:28.601Z",
+  "generated_at": "2026-10-20T17:30:58.052Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -351,7 +351,7 @@
       "url": "https://www.deep-ml.com/math-problems/12",
       "path": "math/0012-inverse-and-rank",
       "first_solved_at": "2026-10-20T17:30:28.119Z",
-      "last_pushed_at": "2026-10-20T17:30:28.119Z"
+      "last_pushed_at": "2026-10-20T17:30:57.719Z"
     }
   }
 }
